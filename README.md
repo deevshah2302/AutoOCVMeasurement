@@ -6,8 +6,11 @@ Credits: Andrew Hanlon for his Impedance Measurement Script, Michael Lin for qua
 ## Equipment and Setup
 
 1x Keithley 2110 Benchtop Multimeter
+
 1x Cell Holders
+
 700x Cells
+
 1x USB A Cable
 
 ## Dependencies
