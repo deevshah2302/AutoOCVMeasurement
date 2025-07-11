@@ -1,5 +1,6 @@
 # Auto OC Voltage Measurement Script
 Semi-automated script for Open Circuit Voltage Measurements of Cells for UBC Solar's Battery Pack Cell Characterization
+Credits: Andrew Hanlon for his Impedance Measurement Script, Michael Lin for qualiy of life changes in this script.
 
 ## Equipment and Setup
 
